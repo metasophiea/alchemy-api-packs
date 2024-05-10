@@ -1,1 +1,20 @@
-[]
+[
+	{
+		"apiVersion": [0, 3, 3],
+		"intermediateFormatUrl": "https://github.com/metasophiea/alchemy-api-packs/releases/download/intermediateFormat/intermediateFormat-0.3.3.zip",
+		"packs": [
+			{
+				"id": "rust",
+				"packVersion": [0, 1, 0],
+				"printName": "Rust",
+				"url": "https://github.com/metasophiea/alchemy-api-packs/releases/download/rust/rust-0.3.3-0.1.0.zip"
+			},
+			{
+				"id": "typescriptDeno",
+				"packVersion": [0, 1, 0],
+				"printName": "Typescript (Deno)",
+				"url": "https://github.com/metasophiea/alchemy-api-packs/releases/download/typescript-deno/typescript-deno-0.3.3-0.1.0.zip"
+			}
+		]
+	}
+]
